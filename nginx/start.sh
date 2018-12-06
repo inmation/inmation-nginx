@@ -1,0 +1,1 @@
+docker run -h mynginx -v c:/Users/inmate/docker-nginxplus/conf.d:/etc/nginx/conf.d -p 8003:8003 -p 8005:8002 -d nginxplus

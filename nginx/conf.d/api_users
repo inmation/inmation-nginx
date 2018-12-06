@@ -1,0 +1,4 @@
+# NGINX Plus API Users see http://nginx.org/en/docs/http/ngx_http_auth_basic_module.html
+
+# DO NOT USE {PLAIN} or {SHA1} in production.
+username:{PLAIN}password
